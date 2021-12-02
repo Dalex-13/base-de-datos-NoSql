@@ -1,0 +1,11 @@
+[{
+  "_id": "1",
+  "amount": "700.00",
+  "paymentsdate": "25/05/2021",
+  "_class": "com.nttdata.microservicepayments.infraestructure.model.dao.PaymentsDao"
+},{
+  "_id": "2",
+  "amount": "600.00",
+  "paymentsdate": "15/10/2021",
+  "_class": "com.nttdata.microservicepayments.infraestructure.model.dao.PaymentsDao"
+}]

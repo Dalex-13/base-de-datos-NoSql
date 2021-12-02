@@ -1,0 +1,15 @@
+[{
+  "_id": "1",
+  "dni": "78451245",
+  "name": "jose",
+  "lastname": "quispe",
+  "datebirth": "15/08/1985",
+  "_class": "com.nttdata.microserviceusername.infraestructure.model.dao.UsernameDao"
+},{
+  "_id": "2",
+  "dni": "45618562",
+  "name": "manuel",
+  "lastname": "ramos",
+  "datebirth": "02/10/1990",
+  "_class": "com.nttdata.microserviceusername.infraestructure.model.dao.UsernameDao"
+}]

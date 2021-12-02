@@ -1,0 +1,15 @@
+[{
+  "_id": "2",
+  "customertype": "2",
+  "idmoney": "2",
+  "accountnumber": "789456125",
+  "residue": "300.00",
+  "_class": "com.nttdata.microserviceaccount.infraestructure.model.dao.AccountDao"
+},{
+  "_id": "1",
+  "customertype": "1",
+  "idmoney": "1",
+  "accountnumber": "7894112213",
+  "residue": "340.00",
+  "_class": "com.nttdata.microserviceaccount.infraestructure.model.dao.AccountDao"
+}]

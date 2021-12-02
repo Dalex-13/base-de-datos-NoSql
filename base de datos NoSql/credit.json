@@ -1,0 +1,17 @@
+[{
+  "_id": "1",
+  "idcustomer": "789456",
+  "idtypecredit": "2",
+  "idmoney": "2",
+  "amount": "500.00",
+  "amountavailable": "500.00",
+  "_class": "com.nttdata.microservicecredit.infraestructure.dao.CreditDao"
+},{
+  "_id": "2",
+  "idcustomer": "987456",
+  "idtypecredit": "1",
+  "idmoney": "1",
+  "amount": "700.00",
+  "amountavailable": "300.00",
+  "_class": "com.nttdata.microservicecredit.infraestructure.dao.CreditDao"
+}]

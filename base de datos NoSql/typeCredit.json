@@ -1,0 +1,13 @@
+[{
+  "_id": "1",
+  "name": "robert",
+  "currentbalance": "600.00",
+  "creditgranted": "400.00",
+  "_class": "com.nttdata.microservicecredit.infraestructure.dao.TCreditDao"
+},{
+  "_id": "2",
+  "name": "carlos",
+  "currentbalance": "500.00",
+  "creditgranted": "500.00",
+  "_class": "com.nttdata.microservicecredit.infraestructure.dao.TCreditDao"
+}]
